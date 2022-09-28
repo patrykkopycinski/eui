@@ -7,10 +7,11 @@
  */
 
 import { Component } from 'react';
+import type { PropsWithChildren } from 'react';
 
-export interface EuiDelayRenderProps {
+export type EuiDelayRenderProps = PropsWithChildren<{
   delay: number;
-}
+}>;
 
 interface EuiDelayRenderState {
   toggle: boolean;

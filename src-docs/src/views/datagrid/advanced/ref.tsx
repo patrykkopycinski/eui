@@ -17,6 +17,7 @@ import {
   EuiModalHeader,
   EuiModalHeaderTitle,
   EuiText,
+  EuiDataGridSorting,
 } from '../../../../../src';
 
 const raw_data: Array<{ [key: string]: string }> = [];
@@ -45,14 +46,25 @@ export default () => {
     dataGridRef.current!.setFocusedCell(lastFocusedCell); // Set the data grid focus back to the cell that opened the modal
   }, [lastFocusedCell]);
 
-  const showModal = useCallback(({ rowIndex, colIndex }) => {
-    setIsModalVisible(true);
-    dataGridRef.current!.closeCellPopover(); // Close any open cell popovers
-    setLastFocusedCell({ rowIndex, colIndex }); // Store the cell that opened this modal
-  }, []);
+  const showModal = useCallback(
+    ({ rowIndex, colIndex }: { rowIndex: number; colIndex: number }) => {
+      setIsModalVisible(true);
+      dataGridRef.current!.closeCellPopover(); // Close any open cell popovers
+      setLastFocusedCell({ rowIndex, colIndex }); // Store the cell that opened this modal
+    },
+    []
+  );
 
   const openModalAction = useCallback(
-    ({ Component, rowIndex, colIndex }) => {
+    ({
+      Component,
+      rowIndex,
+      colIndex,
+    }: {
+      Component: any;
+      rowIndex: number;
+      colIndex: number;
+    }) => {
       return (
         <Component
           onClick={() => showModal({ rowIndex, colIndex })}
@@ -106,16 +118,18 @@ export default () => {
 
   // Pagination
   const [pagination, setPagination] = useState({ pageIndex: 0, pageSize: 25 });
-  const onChangePage = useCallback((pageIndex) => {
+  const onChangePage = useCallback((pageIndex: number) => {
     setPagination((pagination) => ({ ...pagination, pageIndex }));
   }, []);
-  const onChangePageSize = useCallback((pageSize) => {
+  const onChangePageSize = useCallback((pageSize: number) => {
     setPagination((pagination) => ({ ...pagination, pageSize }));
   }, []);
 
   // Sorting
-  const [sortingColumns, setSortingColumns] = useState([]);
-  const onSort = useCallback((sortingColumns) => {
+  const [sortingColumns, setSortingColumns] = useState<
+    EuiDataGridSorting['columns']
+  >([]);
+  const onSort = useCallback<EuiDataGridSorting['onSort']>((sortingColumns) => {
     setSortingColumns(sortingColumns);
   }, []);
 

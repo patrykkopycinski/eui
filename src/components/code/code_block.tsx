@@ -7,16 +7,19 @@
  */
 
 import React, {
-  CSSProperties,
-  HTMLAttributes,
-  FunctionComponent,
-  KeyboardEvent,
   forwardRef,
-  ReactNode,
   useEffect,
   useMemo,
   useState,
   useCallback,
+} from 'react';
+import type {
+  CSSProperties,
+  HTMLAttributes,
+  KeyboardEvent,
+  ReactNode,
+  FC,
+  PropsWithChildren,
 } from 'react';
 import classNames from 'classnames';
 import { RefractorNode } from 'refractor';
@@ -127,7 +130,7 @@ export type EuiCodeBlockProps = EuiCodeSharedProps & {
   isVirtualized?: boolean;
 } & VirtualizedOptionProps;
 
-export const EuiCodeBlock: FunctionComponent<EuiCodeBlockProps> = ({
+export const EuiCodeBlock: FC<PropsWithChildren<EuiCodeBlockProps>> = ({
   language: _language = DEFAULT_LANGUAGE,
   transparentBackground = false,
   paddingSize = 'l',
@@ -353,7 +356,7 @@ const useOverflowDetection = () => {
  * Copy logic
  */
 
-const CopyButton: FunctionComponent<{
+const CopyButton: FC<{
   textToCopy: string;
 }> = ({ textToCopy }) => {
   const copyButton = useEuiI18n('euiCodeBlock.copyButton', 'Copy');
@@ -398,7 +401,7 @@ const useCopy = ({
  * Fullscreen logic
  */
 
-const FullScreenButton: FunctionComponent<{
+const FullScreenButton: FC<{
   isFullScreen: boolean;
   toggleFullScreen: () => void;
 }> = ({ isFullScreen, toggleFullScreen }) => {
@@ -417,9 +420,9 @@ const FullScreenButton: FunctionComponent<{
   );
 };
 
-const FullScreenDisplay: FunctionComponent<{
+const FullScreenDisplay: FC<PropsWithChildren<{
   className: string;
-}> = ({ children, className }) => {
+}>> = ({ children, className }) => {
   // Force fullscreen to use large font and padding.
   const fullScreenClasses = classNames(
     className,

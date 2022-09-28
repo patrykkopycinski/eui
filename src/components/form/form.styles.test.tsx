@@ -7,7 +7,8 @@
  */
 
 import React from 'react';
-import { renderHook } from '@testing-library/react-hooks';
+import type { FC, PropsWithChildren } from 'react';
+import { renderHook } from '@testing-library/react';
 import { useEuiTheme } from '../../services';
 import { EuiProvider } from '../provider';
 
@@ -17,7 +18,7 @@ import {
   euiCustomControl,
 } from './form.styles';
 
-const darkModeWrapper: React.FC = ({ children }) => (
+const darkModeWrapper: FC<PropsWithChildren> = ({ children }) => (
   <EuiProvider colorMode="DARK">{children}</EuiProvider>
 );
 

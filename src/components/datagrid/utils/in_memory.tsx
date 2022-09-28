@@ -52,14 +52,17 @@ export const useInMemoryValues = (
     inMemoryValuesVersion,
   ]);
 
-  const onCellRender = useCallback((rowIndex, columnId, value) => {
-    const nextInMemoryValues = _inMemoryValues.current;
-    nextInMemoryValues[rowIndex] = nextInMemoryValues[rowIndex] || {};
-    if (nextInMemoryValues[rowIndex][columnId] !== value) {
-      nextInMemoryValues[rowIndex][columnId] = value;
-      setInMemoryValuesVersion((version) => version + 1);
-    }
-  }, []);
+  const onCellRender = useCallback(
+    (rowIndex: number, columnId: string, value: string) => {
+      const nextInMemoryValues = _inMemoryValues.current;
+      nextInMemoryValues[rowIndex] = nextInMemoryValues[rowIndex] || {};
+      if (nextInMemoryValues[rowIndex][columnId] !== value) {
+        nextInMemoryValues[rowIndex][columnId] = value;
+        setInMemoryValuesVersion((version) => version + 1);
+      }
+    },
+    []
+  );
 
   // if `inMemory.level` or `rowCount` changes reset the values
   const inMemoryLevel = inMemory && inMemory.level;

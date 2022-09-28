@@ -2,21 +2,21 @@
 
 exports[`EuiTimeline is rendered with items 1`] = `
 <ol
-  class="euiTimeline emotion-euiTimeline-xl"
+  class="euiTimeline css-xiu9el-euiTimeline-xl"
   role="list"
 >
   <li
-    class="emotion-euiTimelineItem-center"
+    class="css-1wm3oim-euiTimelineItem-center"
   >
     <div
-      class="emotion-euiTimelineItemIcon-center"
+      class="css-x8lrtq-euiTimelineItemIcon-center"
     >
       <div
-        class="emotion-euiTimelineItemIcon__content"
+        class="css-kuz8oa-euiTimelineItemIcon__content"
       >
         <div
           aria-label="email"
-          class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+          class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
           role="img"
           title="email"
         >
@@ -28,7 +28,7 @@ exports[`EuiTimeline is rendered with items 1`] = `
       </div>
     </div>
     <div
-      class="emotion-euiTimelineItemEvent-center"
+      class="css-1a9m88x-euiTimelineItemEvent-center"
     >
       <p>
         <strong>
@@ -39,17 +39,17 @@ exports[`EuiTimeline is rendered with items 1`] = `
     </div>
   </li>
   <li
-    class="emotion-euiTimelineItem-top"
+    class="css-1wlaxn1-euiTimelineItem-top"
   >
     <div
-      class="emotion-euiTimelineItemIcon-top"
+      class="css-dka1ul-euiTimelineItemIcon-top"
     >
       <div
-        class="emotion-euiTimelineItemIcon__content"
+        class="css-kuz8oa-euiTimelineItemIcon__content"
       >
         <div
           aria-label=""
-          class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+          class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
           role="img"
           title=""
         >
@@ -61,7 +61,7 @@ exports[`EuiTimeline is rendered with items 1`] = `
       </div>
     </div>
     <div
-      class="emotion-euiTimelineItemEvent-top"
+      class="css-1waxxmm-euiTimelineItemEvent-top"
     >
       <p>
         <strong>
@@ -76,21 +76,21 @@ exports[`EuiTimeline is rendered with items 1`] = `
 
 exports[`EuiTimeline props gutterSize l is rendered 1`] = `
 <ol
-  class="euiTimeline emotion-euiTimeline-l"
+  class="euiTimeline css-1mo6v1p-euiTimeline-l"
   role="list"
 >
   <li
-    class="emotion-euiTimelineItem-center"
+    class="css-1wm3oim-euiTimelineItem-center"
   >
     <div
-      class="emotion-euiTimelineItemIcon-center"
+      class="css-x8lrtq-euiTimelineItemIcon-center"
     >
       <div
-        class="emotion-euiTimelineItemIcon__content"
+        class="css-kuz8oa-euiTimelineItemIcon__content"
       >
         <div
           aria-label="email"
-          class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+          class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
           role="img"
           title="email"
         >
@@ -102,7 +102,7 @@ exports[`EuiTimeline props gutterSize l is rendered 1`] = `
       </div>
     </div>
     <div
-      class="emotion-euiTimelineItemEvent-center"
+      class="css-1a9m88x-euiTimelineItemEvent-center"
     >
       <p>
         <strong>
@@ -113,17 +113,17 @@ exports[`EuiTimeline props gutterSize l is rendered 1`] = `
     </div>
   </li>
   <li
-    class="emotion-euiTimelineItem-top"
+    class="css-1wlaxn1-euiTimelineItem-top"
   >
     <div
-      class="emotion-euiTimelineItemIcon-top"
+      class="css-dka1ul-euiTimelineItemIcon-top"
     >
       <div
-        class="emotion-euiTimelineItemIcon__content"
+        class="css-kuz8oa-euiTimelineItemIcon__content"
       >
         <div
           aria-label=""
-          class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+          class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
           role="img"
           title=""
         >
@@ -135,7 +135,7 @@ exports[`EuiTimeline props gutterSize l is rendered 1`] = `
       </div>
     </div>
     <div
-      class="emotion-euiTimelineItemEvent-top"
+      class="css-1waxxmm-euiTimelineItemEvent-top"
     >
       <p>
         <strong>
@@ -150,21 +150,21 @@ exports[`EuiTimeline props gutterSize l is rendered 1`] = `
 
 exports[`EuiTimeline props gutterSize m is rendered 1`] = `
 <ol
-  class="euiTimeline emotion-euiTimeline-m"
+  class="euiTimeline css-6cbmhw-euiTimeline-m"
   role="list"
 >
   <li
-    class="emotion-euiTimelineItem-center"
+    class="css-1wm3oim-euiTimelineItem-center"
   >
     <div
-      class="emotion-euiTimelineItemIcon-center"
+      class="css-x8lrtq-euiTimelineItemIcon-center"
     >
       <div
-        class="emotion-euiTimelineItemIcon__content"
+        class="css-kuz8oa-euiTimelineItemIcon__content"
       >
         <div
           aria-label="email"
-          class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+          class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
           role="img"
           title="email"
         >
@@ -176,7 +176,7 @@ exports[`EuiTimeline props gutterSize m is rendered 1`] = `
       </div>
     </div>
     <div
-      class="emotion-euiTimelineItemEvent-center"
+      class="css-1a9m88x-euiTimelineItemEvent-center"
     >
       <p>
         <strong>
@@ -187,17 +187,17 @@ exports[`EuiTimeline props gutterSize m is rendered 1`] = `
     </div>
   </li>
   <li
-    class="emotion-euiTimelineItem-top"
+    class="css-1wlaxn1-euiTimelineItem-top"
   >
     <div
-      class="emotion-euiTimelineItemIcon-top"
+      class="css-dka1ul-euiTimelineItemIcon-top"
     >
       <div
-        class="emotion-euiTimelineItemIcon__content"
+        class="css-kuz8oa-euiTimelineItemIcon__content"
       >
         <div
           aria-label=""
-          class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+          class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
           role="img"
           title=""
         >
@@ -209,7 +209,7 @@ exports[`EuiTimeline props gutterSize m is rendered 1`] = `
       </div>
     </div>
     <div
-      class="emotion-euiTimelineItemEvent-top"
+      class="css-1waxxmm-euiTimelineItemEvent-top"
     >
       <p>
         <strong>
@@ -224,21 +224,21 @@ exports[`EuiTimeline props gutterSize m is rendered 1`] = `
 
 exports[`EuiTimeline props gutterSize xl is rendered 1`] = `
 <ol
-  class="euiTimeline emotion-euiTimeline-xl"
+  class="euiTimeline css-xiu9el-euiTimeline-xl"
   role="list"
 >
   <li
-    class="emotion-euiTimelineItem-center"
+    class="css-1wm3oim-euiTimelineItem-center"
   >
     <div
-      class="emotion-euiTimelineItemIcon-center"
+      class="css-x8lrtq-euiTimelineItemIcon-center"
     >
       <div
-        class="emotion-euiTimelineItemIcon__content"
+        class="css-kuz8oa-euiTimelineItemIcon__content"
       >
         <div
           aria-label="email"
-          class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+          class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
           role="img"
           title="email"
         >
@@ -250,7 +250,7 @@ exports[`EuiTimeline props gutterSize xl is rendered 1`] = `
       </div>
     </div>
     <div
-      class="emotion-euiTimelineItemEvent-center"
+      class="css-1a9m88x-euiTimelineItemEvent-center"
     >
       <p>
         <strong>
@@ -261,17 +261,17 @@ exports[`EuiTimeline props gutterSize xl is rendered 1`] = `
     </div>
   </li>
   <li
-    class="emotion-euiTimelineItem-top"
+    class="css-1wlaxn1-euiTimelineItem-top"
   >
     <div
-      class="emotion-euiTimelineItemIcon-top"
+      class="css-dka1ul-euiTimelineItemIcon-top"
     >
       <div
-        class="emotion-euiTimelineItemIcon__content"
+        class="css-kuz8oa-euiTimelineItemIcon__content"
       >
         <div
           aria-label=""
-          class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+          class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
           role="img"
           title=""
         >
@@ -283,7 +283,7 @@ exports[`EuiTimeline props gutterSize xl is rendered 1`] = `
       </div>
     </div>
     <div
-      class="emotion-euiTimelineItemEvent-top"
+      class="css-1waxxmm-euiTimelineItemEvent-top"
     >
       <p>
         <strong>

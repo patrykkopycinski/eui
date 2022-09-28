@@ -7,13 +7,8 @@
  */
 
 import classnames from 'classnames';
-import React, {
-  FunctionComponent,
-  useContext,
-  useEffect,
-  useRef,
-  useState,
-} from 'react';
+import React, { useContext, useEffect, useRef, useState } from 'react';
+import type { FC, PropsWithChildren } from 'react';
 import { tabbable } from 'tabbable';
 import { keys } from '../../../../services';
 import { DataGridFocusContext } from '../../utils/focus';
@@ -24,7 +19,9 @@ import { EuiDataGridHeaderCellWrapperProps } from '../../data_grid_types';
  * standard header cells. Most of its shared logic is around focus state/UX,
  * but it also DRY's out certain class/data-test-subj/style attributes
  */
-export const EuiDataGridHeaderCellWrapper: FunctionComponent<EuiDataGridHeaderCellWrapperProps> = ({
+export const EuiDataGridHeaderCellWrapper: FC<PropsWithChildren<
+  EuiDataGridHeaderCellWrapperProps
+>> = ({
   id,
   index,
   headerIsInteractive,

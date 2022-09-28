@@ -261,7 +261,7 @@ export const FontScaleValuesJS = () => {
         </EuiDescribedFormGroup>
       </EuiPanel>
       <EuiSpacer />
-      <EuiBasicTable
+      <EuiBasicTable<any>
         tableLayout="auto"
         items={scaleKeys.map((scale, index) => {
           return {

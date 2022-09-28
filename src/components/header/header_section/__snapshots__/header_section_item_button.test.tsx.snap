@@ -79,7 +79,7 @@ exports[`EuiHeaderSectionItemButton renders notification as a badge 1`] = `
         class="euiHeaderSectionItemButton__content"
       />
       <span
-        class="euiNotificationBadge euiHeaderSectionItemButton__notification euiHeaderSectionItemButton__notification--badge emotion-euiNotificationBadge-s-accent"
+        class="euiNotificationBadge euiHeaderSectionItemButton__notification euiHeaderSectionItemButton__notification--badge css-1o7u0e3-euiNotificationBadge-s-accent"
       >
         1
       </span>
@@ -127,7 +127,7 @@ exports[`EuiHeaderSectionItemButton renders notification color 1`] = `
         class="euiHeaderSectionItemButton__content"
       />
       <span
-        class="euiNotificationBadge euiHeaderSectionItemButton__notification euiHeaderSectionItemButton__notification--badge emotion-euiNotificationBadge-s-subdued"
+        class="euiNotificationBadge euiHeaderSectionItemButton__notification euiHeaderSectionItemButton__notification--badge css-l7qdl0-euiNotificationBadge-s-subdued"
       >
         1
       </span>

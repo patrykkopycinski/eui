@@ -48,7 +48,7 @@ export const EuiForm = forwardRef<HTMLElement, EuiFormProps>(
     },
     ref
   ) => {
-    const handleFocus = useCallback((node) => {
+    const handleFocus = useCallback((node: any) => {
       node?.focus();
     }, []);
 

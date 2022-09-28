@@ -4,7 +4,7 @@ exports[`EuiGlobalToastList is rendered 1`] = `
 <div
   aria-label="aria-label"
   aria-live="polite"
-  class="euiGlobalToastList testClass1 testClass2 emotion-euiGlobalToastList-right"
+  class="euiGlobalToastList testClass1 testClass2 css-q9rn2p-euiGlobalToastList-right"
   data-test-subj="test subject string"
   role="region"
 />
@@ -13,31 +13,31 @@ exports[`EuiGlobalToastList is rendered 1`] = `
 exports[`EuiGlobalToastList props side can be changed to left 1`] = `
 <div
   aria-live="polite"
-  class="euiGlobalToastList emotion-euiGlobalToastList-left"
+  class="euiGlobalToastList css-1wd4kwu-euiGlobalToastList-left"
   role="region"
 >
   <div
-    class="euiToast euiGlobalToastListItem emotion-euiToast-success-euiGlobalToastListItem"
+    class="euiToast euiGlobalToastListItem css-7s3ook-euiToast-success-euiGlobalToastListItem"
     data-test-subj="a"
     id="a"
   >
     <p
-      class="emotion-euiScreenReaderOnly"
+      class="css-hus3oj-euiScreenReaderOnly"
     >
       A new notification appears
     </p>
     <div
       aria-label="Notification"
-      class="emotion-euiToastHeader-withBody"
+      class="css-pc95kc-euiToastHeader-withBody"
       data-test-subj="euiToastHeader"
     >
       <span
         aria-hidden="true"
-        class="emotion-euiToastHeader__icon"
+        class="css-mmgke1-euiToastHeader__icon"
         data-euiicon-type="check"
       />
       <span
-        class="emotion-euiToastHeader__title"
+        class="css-1slhb2e-euiToastHeader__title"
         data-test-subj="euiToastHeader__title"
       >
         A
@@ -45,7 +45,7 @@ exports[`EuiGlobalToastList props side can be changed to left 1`] = `
     </div>
     <button
       aria-label="Dismiss toast"
-      class="euiButtonIcon euiButtonIcon--xSmall emotion-euiButtonIcon-empty-text-hoverStyles-euiToast__closeButton"
+      class="euiButtonIcon euiButtonIcon--xSmall css-1x5pxt3-euiButtonIcon-empty-text-hoverStyles-euiToast__closeButton"
       data-test-subj="toastCloseButton"
       type="button"
     >
@@ -57,34 +57,34 @@ exports[`EuiGlobalToastList props side can be changed to left 1`] = `
       />
     </button>
     <div
-      class="euiText emotion-euiText-s-euiToastBody"
+      class="euiText css-s3yl1j-euiText-s-euiToastBody"
       data-test-subj="euiToastBody"
     >
       a
     </div>
   </div>
   <div
-    class="euiToast euiGlobalToastListItem emotion-euiToast-danger-euiGlobalToastListItem"
+    class="euiToast euiGlobalToastListItem css-1v70vbg-euiToast-danger-euiGlobalToastListItem"
     data-test-subj="b"
     id="b"
   >
     <p
-      class="emotion-euiScreenReaderOnly"
+      class="css-hus3oj-euiScreenReaderOnly"
     >
       A new notification appears
     </p>
     <div
       aria-label="Notification"
-      class="emotion-euiToastHeader-withBody"
+      class="css-pc95kc-euiToastHeader-withBody"
       data-test-subj="euiToastHeader"
     >
       <span
         aria-hidden="true"
-        class="emotion-euiToastHeader__icon"
+        class="css-mmgke1-euiToastHeader__icon"
         data-euiicon-type="alert"
       />
       <span
-        class="emotion-euiToastHeader__title"
+        class="css-1slhb2e-euiToastHeader__title"
         data-test-subj="euiToastHeader__title"
       >
         B
@@ -92,7 +92,7 @@ exports[`EuiGlobalToastList props side can be changed to left 1`] = `
     </div>
     <button
       aria-label="Dismiss toast"
-      class="euiButtonIcon euiButtonIcon--xSmall emotion-euiButtonIcon-empty-text-hoverStyles-euiToast__closeButton"
+      class="euiButtonIcon euiButtonIcon--xSmall css-1x5pxt3-euiButtonIcon-empty-text-hoverStyles-euiToast__closeButton"
       data-test-subj="toastCloseButton"
       type="button"
     >
@@ -104,7 +104,7 @@ exports[`EuiGlobalToastList props side can be changed to left 1`] = `
       />
     </button>
     <div
-      class="euiText emotion-euiText-s-euiToastBody"
+      class="euiText css-s3yl1j-euiText-s-euiToastBody"
       data-test-subj="euiToastBody"
     >
       b
@@ -116,31 +116,31 @@ exports[`EuiGlobalToastList props side can be changed to left 1`] = `
 exports[`EuiGlobalToastList props toasts is rendered 1`] = `
 <div
   aria-live="polite"
-  class="euiGlobalToastList emotion-euiGlobalToastList-right"
+  class="euiGlobalToastList css-q9rn2p-euiGlobalToastList-right"
   role="region"
 >
   <div
-    class="euiToast euiGlobalToastListItem emotion-euiToast-success-euiGlobalToastListItem"
+    class="euiToast euiGlobalToastListItem css-7s3ook-euiToast-success-euiGlobalToastListItem"
     data-test-subj="a"
     id="a"
   >
     <p
-      class="emotion-euiScreenReaderOnly"
+      class="css-hus3oj-euiScreenReaderOnly"
     >
       A new notification appears
     </p>
     <div
       aria-label="Notification"
-      class="emotion-euiToastHeader-withBody"
+      class="css-pc95kc-euiToastHeader-withBody"
       data-test-subj="euiToastHeader"
     >
       <span
         aria-hidden="true"
-        class="emotion-euiToastHeader__icon"
+        class="css-mmgke1-euiToastHeader__icon"
         data-euiicon-type="check"
       />
       <span
-        class="emotion-euiToastHeader__title"
+        class="css-1slhb2e-euiToastHeader__title"
         data-test-subj="euiToastHeader__title"
       >
         A
@@ -148,7 +148,7 @@ exports[`EuiGlobalToastList props toasts is rendered 1`] = `
     </div>
     <button
       aria-label="Dismiss toast"
-      class="euiButtonIcon euiButtonIcon--xSmall emotion-euiButtonIcon-empty-text-hoverStyles-euiToast__closeButton"
+      class="euiButtonIcon euiButtonIcon--xSmall css-1x5pxt3-euiButtonIcon-empty-text-hoverStyles-euiToast__closeButton"
       data-test-subj="toastCloseButton"
       type="button"
     >
@@ -160,34 +160,34 @@ exports[`EuiGlobalToastList props toasts is rendered 1`] = `
       />
     </button>
     <div
-      class="euiText emotion-euiText-s-euiToastBody"
+      class="euiText css-s3yl1j-euiText-s-euiToastBody"
       data-test-subj="euiToastBody"
     >
       a
     </div>
   </div>
   <div
-    class="euiToast euiGlobalToastListItem emotion-euiToast-danger-euiGlobalToastListItem"
+    class="euiToast euiGlobalToastListItem css-1v70vbg-euiToast-danger-euiGlobalToastListItem"
     data-test-subj="b"
     id="b"
   >
     <p
-      class="emotion-euiScreenReaderOnly"
+      class="css-hus3oj-euiScreenReaderOnly"
     >
       A new notification appears
     </p>
     <div
       aria-label="Notification"
-      class="emotion-euiToastHeader-withBody"
+      class="css-pc95kc-euiToastHeader-withBody"
       data-test-subj="euiToastHeader"
     >
       <span
         aria-hidden="true"
-        class="emotion-euiToastHeader__icon"
+        class="css-mmgke1-euiToastHeader__icon"
         data-euiicon-type="alert"
       />
       <span
-        class="emotion-euiToastHeader__title"
+        class="css-1slhb2e-euiToastHeader__title"
         data-test-subj="euiToastHeader__title"
       >
         B
@@ -195,7 +195,7 @@ exports[`EuiGlobalToastList props toasts is rendered 1`] = `
     </div>
     <button
       aria-label="Dismiss toast"
-      class="euiButtonIcon euiButtonIcon--xSmall emotion-euiButtonIcon-empty-text-hoverStyles-euiToast__closeButton"
+      class="euiButtonIcon euiButtonIcon--xSmall css-1x5pxt3-euiButtonIcon-empty-text-hoverStyles-euiToast__closeButton"
       data-test-subj="toastCloseButton"
       type="button"
     >
@@ -207,7 +207,7 @@ exports[`EuiGlobalToastList props toasts is rendered 1`] = `
       />
     </button>
     <div
-      class="euiText emotion-euiText-s-euiToastBody"
+      class="euiText css-s3yl1j-euiText-s-euiToastBody"
       data-test-subj="euiToastBody"
     >
       b

@@ -24,19 +24,19 @@ export default () => {
     {
       value: 'errorPages',
       text: 'Page not found',
-      component: errorPages,
+      component: <>{errorPages}</>,
       source: errorPagesSource,
     },
     {
       value: 'noPrivileges',
       text: 'No permission',
-      component: noPrivileges,
+      component: <>{noPrivileges}</>,
       source: noPrivilegesSource,
     },
     {
       value: 'licenseUpgrade',
       text: 'License upgrade',
-      component: licenseUpgrade,
+      component: <>{licenseUpgrade}</>,
       source: licenseUpgradeSource,
     },
   ];

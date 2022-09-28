@@ -2,7 +2,7 @@
 
 exports[`useEuiTextDiff is rendered 1`] = `
 <span
-  class="euiTextDiff emotion-euiTextDiff"
+  class="euiTextDiff css-eorbtn-euiTextDiff"
 >
   Orbiting th
   <del>
@@ -96,7 +96,7 @@ exports[`useEuiTextDiff is rendered 1`] = `
 
 exports[`useEuiTextDiff props custom components is rendered 1`] = `
 <span
-  class="euiTextDiff emotion-euiTextDiff"
+  class="euiTextDiff css-eorbtn-euiTextDiff"
 >
   <p>
     Orbiting th

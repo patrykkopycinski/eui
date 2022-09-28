@@ -1,4 +1,5 @@
 import React from 'react';
+import type { PropsWithChildren } from 'react';
 import { EUI_THEMES, EUI_THEME } from '../../../../src/themes';
 // @ts-ignore importing from a JS file
 import { applyTheme } from '../../services';
@@ -45,7 +46,7 @@ interface State {
 
 export const ThemeContext = React.createContext(defaultState);
 
-export class ThemeProvider extends React.Component<object, State> {
+export class ThemeProvider extends React.Component<PropsWithChildren, State> {
   constructor(props: object) {
     super(props);
 

@@ -6,7 +6,8 @@
  * Side Public License, v 1.
  */
 
-import React, { FunctionComponent } from 'react';
+import React from 'react';
+import type { FC, PropsWithChildren } from 'react';
 import classNames from 'classnames';
 
 import { EuiFocusTrap } from '../focus_trap';
@@ -23,7 +24,9 @@ import { euiImageButtonIconStyles } from './image_button.styles';
 
 import { EuiImageCaption } from './image_caption';
 
-export const EuiImageFullScreenWrapper: FunctionComponent<EuiImageWrapperProps> = ({
+export const EuiImageFullScreenWrapper: FC<PropsWithChildren<
+  EuiImageWrapperProps
+>> = ({
   alt,
   hasShadow,
   caption,

@@ -6,7 +6,8 @@
  * Side Public License, v 1.
  */
 
-import React, { FunctionComponent, useState } from 'react';
+import React, { useState } from 'react';
+import type { FC, PropsWithChildren } from 'react';
 import { mount } from 'enzyme';
 import { EuiMutationObserver, useMutationObserver } from './mutation_observer';
 import { sleep } from '../../../test';
@@ -21,7 +22,7 @@ describe('EuiMutationObserver', () => {
     expect.assertions(1);
     const onMutation = jest.fn();
 
-    const Wrapper: FunctionComponent<{ value: number }> = ({ value }) => {
+    const Wrapper: FC<{ value: number }> = ({ value }) => {
       return (
         <EuiMutationObserver
           observerOptions={{ attributes: true }}
@@ -51,7 +52,7 @@ describe('useMutationObserver', () => {
     expect.assertions(2);
 
     const mutationCallback = jest.fn();
-    const Wrapper: FunctionComponent<{}> = jest.fn(({ children }) => {
+    const Wrapper: FC<PropsWithChildren> = jest.fn(({ children }) => {
       const [ref, setRef] = useState<Element | null>(null);
       useMutationObserver(ref, mutationCallback, {
         childList: true,

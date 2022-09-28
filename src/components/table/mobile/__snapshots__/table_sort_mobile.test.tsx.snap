@@ -5,7 +5,7 @@ exports[`EuiTableSortMobile is rendered 1`] = `
   class="euiTableSortMobile testClass1 testClass2"
 >
   <div
-    class="euiPopover emotion-euiPopover"
+    class="euiPopover css-jfgyh9-euiPopover"
     data-test-subj="test subject string"
   >
     <div

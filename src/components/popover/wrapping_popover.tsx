@@ -11,7 +11,7 @@ import { EuiPopover, Props as EuiPopoverProps } from './popover';
 import { EuiPortal } from '../portal';
 
 export interface EuiWrappingPopoverProps extends EuiPopoverProps {
-  button: HTMLElement;
+  button: any;
 }
 
 /**

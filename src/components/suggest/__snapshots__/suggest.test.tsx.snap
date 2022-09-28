@@ -6,7 +6,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -49,7 +49,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unchanged.
@@ -63,7 +63,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -111,7 +111,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unchanged.
@@ -125,7 +125,7 @@ Array [
     class="euiSelectable"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -168,7 +168,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unchanged.
@@ -182,7 +182,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -225,7 +225,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unchanged.
@@ -239,7 +239,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -282,7 +282,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unchanged.
@@ -296,7 +296,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -339,7 +339,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unchanged.
@@ -353,7 +353,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-3n67oa-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -418,7 +418,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="testId_generated-id"
   >
     State: unchanged.
@@ -432,7 +432,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -473,7 +473,7 @@ Array [
               >
                 <span
                   aria-label="Loading"
-                  class="euiLoadingSpinner emotion-euiLoadingSpinner-m"
+                  class="euiLoadingSpinner css-1bim2l3-euiLoadingSpinner-m"
                   role="progressbar"
                 />
               </div>
@@ -484,7 +484,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: loading.
@@ -498,7 +498,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -536,7 +536,7 @@ Array [
               </div>
             </div>
             <span
-              class="euiToolTipAnchor emotion-euiToolTipAnchor-inlineBlock"
+              class="euiToolTipAnchor css-jcaat8-euiToolTipAnchor-inlineBlock"
             >
               <span
                 class="euiSuggestInput__statusIcon"
@@ -550,7 +550,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: saved.
@@ -564,7 +564,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -607,7 +607,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unchanged.
@@ -621,7 +621,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -659,7 +659,7 @@ Array [
               </div>
             </div>
             <span
-              class="euiToolTipAnchor emotion-euiToolTipAnchor-inlineBlock"
+              class="euiToolTipAnchor css-jcaat8-euiToolTipAnchor-inlineBlock"
             >
               <span
                 class="euiSuggestInput__statusIcon"
@@ -673,7 +673,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unsaved.
@@ -687,7 +687,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -728,7 +728,7 @@ Array [
               >
                 <span
                   aria-label="Loading"
-                  class="euiLoadingSpinner emotion-euiLoadingSpinner-m"
+                  class="euiLoadingSpinner css-1bim2l3-euiLoadingSpinner-m"
                   role="progressbar"
                 />
               </div>
@@ -739,7 +739,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: loading.
@@ -753,7 +753,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -791,7 +791,7 @@ Array [
               </div>
             </div>
             <span
-              class="euiToolTipAnchor emotion-euiToolTipAnchor-inlineBlock"
+              class="euiToolTipAnchor css-jcaat8-euiToolTipAnchor-inlineBlock"
             >
               <span
                 class="euiSuggestInput__statusIcon"
@@ -805,7 +805,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: saved.
@@ -819,7 +819,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -862,7 +862,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unchanged.
@@ -876,7 +876,7 @@ Array [
     class="euiSelectable euiSelectable-fullHeight"
   >
     <div
-      class="euiPopover euiInputPopover emotion-euiPopover-EuiInputPopover"
+      class="euiPopover euiInputPopover css-ocm8br-euiPopover-EuiInputPopover"
     >
       <div
         class="euiPopover__anchor css-zih94u-render"
@@ -914,7 +914,7 @@ Array [
               </div>
             </div>
             <span
-              class="euiToolTipAnchor emotion-euiToolTipAnchor-inlineBlock"
+              class="euiToolTipAnchor css-jcaat8-euiToolTipAnchor-inlineBlock"
             >
               <span
                 class="euiSuggestInput__statusIcon"
@@ -928,7 +928,7 @@ Array [
     </div>
   </div>,
   <p
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
     id="generated-id"
   >
     State: unsaved.

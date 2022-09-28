@@ -14,6 +14,7 @@ import {
   _EuiSideNavItemProps,
 } from './side_nav_item';
 
+// @ts-expect-error update types
 export interface EuiSideNavItemType<T>
   extends Omit<_EuiSideNavItemButtonProps, 'children'>,
     Omit<

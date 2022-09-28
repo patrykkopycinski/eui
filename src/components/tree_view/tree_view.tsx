@@ -110,6 +110,7 @@ export type EuiTreeViewProps = Omit<
 
 export class EuiTreeView extends Component<EuiTreeViewProps, EuiTreeViewState> {
   treeIdGenerator = htmlIdGenerator('euiTreeView');
+  context: any = {};
   static contextType = EuiTreeViewContext;
   isNested: boolean = !!this.context;
   state: EuiTreeViewState = {

@@ -16,7 +16,9 @@ export const replaceEmotionPrefix = (selector: string) => {
   );
   // Use the captured group (`euiComponent`) if available and prepend with `emotion-`,
   // otherwise use the full selector.
-  return euiMatch?.groups?.euiComponent
-    ? `emotion-${euiMatch.groups.euiComponent}`
-    : selector;
+  console.log('selector', euiMatch);
+  return 'dupa';
+  // return euiMatch?.groups?.euiComponent
+  //   ? `emotion-${euiMatch.groups.euiComponent}`
+  //   : selector;
 };

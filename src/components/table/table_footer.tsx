@@ -6,10 +6,11 @@
  * Side Public License, v 1.
  */
 
-import React, { FunctionComponent } from 'react';
+import React from 'react';
+import type { FC, PropsWithChildren } from 'react';
 import { CommonProps } from '../common';
 
-export const EuiTableFooter: FunctionComponent<CommonProps> = ({
+export const EuiTableFooter: FC<PropsWithChildren<CommonProps>> = ({
   children,
   className,
   ...rest

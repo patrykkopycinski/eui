@@ -99,11 +99,12 @@ export default () => {
   );
 
   const setPageIndex = useCallback(
-    (pageIndex) => setPagination({ ...pagination, pageIndex }),
+    (pageIndex: number) => setPagination({ ...pagination, pageIndex }),
     [pagination, setPagination]
   );
   const setPageSize = useCallback(
-    (pageSize) => setPagination({ ...pagination, pageSize, pageIndex: 0 }),
+    (pageSize: number) =>
+      setPagination({ ...pagination, pageSize, pageIndex: 0 }),
     [pagination, setPagination]
   );
 

@@ -137,7 +137,7 @@ export const useDataGridDisplaySelector = (
     },
     [lineCount]
   );
-  const setLineCountHeight = useCallback((event) => {
+  const setLineCountHeight = useCallback((event: any) => {
     const newLineCount = Number(event.target.value);
     if (newLineCount < 1) return; // Don't let users set a 0 or negative line count
 

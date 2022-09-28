@@ -51,7 +51,7 @@ export const useImperativeGridRef = ({
   // both of those states can be guaranteed), so we need to do some extra
   // checks here to make sure the grid automatically handles all cells
   const setFocusedCell = useCallback(
-    ({ rowIndex, colIndex }) => {
+    ({ rowIndex, colIndex }: { rowIndex: number; colIndex: number }) => {
       checkCellExists({ rowIndex, colIndex });
       const visibleRowIndex = findVisibleRowIndex(rowIndex);
       _setFocusedCell([colIndex, visibleRowIndex]); // Transmog args from obj to array
@@ -70,7 +70,7 @@ export const useImperativeGridRef = ({
   // both of those states can be guaranteed), so we need to do some extra
   // checks here to make sure the grid automatically handles all cells
   const openCellPopover = useCallback(
-    ({ rowIndex, colIndex }) => {
+    ({ rowIndex, colIndex }: { rowIndex: number; colIndex: number }) => {
       checkCellExists({ rowIndex, colIndex });
       const visibleRowIndex = findVisibleRowIndex(rowIndex);
       _openCellPopover({ rowIndex: visibleRowIndex, colIndex });
@@ -116,7 +116,7 @@ export const useImperativeGridRef = ({
  */
 export const useCellLocationCheck = (rowCount: number, colCount: number) => {
   const checkCellExists = useCallback(
-    ({ rowIndex, colIndex }) => {
+    ({ rowIndex, colIndex }: { rowIndex: number; colIndex: number }) => {
       if (rowIndex >= rowCount || rowIndex < 0) {
         throw new Error(
           `Row ${rowIndex} is not a valid row. The maximum visible row index is ${

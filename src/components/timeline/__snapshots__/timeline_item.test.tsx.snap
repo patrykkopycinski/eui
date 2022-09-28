@@ -2,17 +2,17 @@
 
 exports[`EuiTimelineItem is rendered 1`] = `
 <li
-  class="emotion-euiTimelineItem-center"
+  class="css-1wm3oim-euiTimelineItem-center"
 >
   <div
-    class="emotion-euiTimelineItemIcon-center"
+    class="css-x8lrtq-euiTimelineItemIcon-center"
   >
     <div
-      class="emotion-euiTimelineItemIcon__content"
+      class="css-kuz8oa-euiTimelineItemIcon__content"
     >
       <div
         aria-label=""
-        class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+        class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
         role="img"
         title=""
       >
@@ -24,7 +24,7 @@ exports[`EuiTimelineItem is rendered 1`] = `
     </div>
   </div>
   <div
-    class="emotion-euiTimelineItemEvent-center"
+    class="css-1a9m88x-euiTimelineItemEvent-center"
   >
     <p>
       I'm the children
@@ -35,17 +35,17 @@ exports[`EuiTimelineItem is rendered 1`] = `
 
 exports[`EuiTimelineItem props EuiAvatar is passed as an icon 1`] = `
 <li
-  class="emotion-euiTimelineItem-center"
+  class="css-1wm3oim-euiTimelineItem-center"
 >
   <div
-    class="emotion-euiTimelineItemIcon-center"
+    class="css-x8lrtq-euiTimelineItemIcon-center"
   >
     <div
-      class="emotion-euiTimelineItemIcon__content"
+      class="css-kuz8oa-euiTimelineItemIcon__content"
     >
       <div
         aria-label="dot"
-        class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+        class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
         role="img"
         title="dot"
       >
@@ -57,7 +57,7 @@ exports[`EuiTimelineItem props EuiAvatar is passed as an icon 1`] = `
     </div>
   </div>
   <div
-    class="emotion-euiTimelineItemEvent-center"
+    class="css-1a9m88x-euiTimelineItemEvent-center"
   >
     <p>
       I'm the children
@@ -68,17 +68,17 @@ exports[`EuiTimelineItem props EuiAvatar is passed as an icon 1`] = `
 
 exports[`EuiTimelineItem props iconAriaLabel is rendered 1`] = `
 <li
-  class="emotion-euiTimelineItem-center"
+  class="css-1wm3oim-euiTimelineItem-center"
 >
   <div
-    class="emotion-euiTimelineItemIcon-center"
+    class="css-x8lrtq-euiTimelineItemIcon-center"
   >
     <div
-      class="emotion-euiTimelineItemIcon__content"
+      class="css-kuz8oa-euiTimelineItemIcon__content"
     >
       <div
         aria-label="icon aria label"
-        class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+        class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
         role="img"
         title="icon aria label"
       >
@@ -90,7 +90,7 @@ exports[`EuiTimelineItem props iconAriaLabel is rendered 1`] = `
     </div>
   </div>
   <div
-    class="emotion-euiTimelineItemEvent-center"
+    class="css-1a9m88x-euiTimelineItemEvent-center"
   >
     <p>
       I'm the children
@@ -101,17 +101,17 @@ exports[`EuiTimelineItem props iconAriaLabel is rendered 1`] = `
 
 exports[`EuiTimelineItem props verticalAlign center is rendered 1`] = `
 <li
-  class="emotion-euiTimelineItem-center"
+  class="css-1wm3oim-euiTimelineItem-center"
 >
   <div
-    class="emotion-euiTimelineItemIcon-center"
+    class="css-x8lrtq-euiTimelineItemIcon-center"
   >
     <div
-      class="emotion-euiTimelineItemIcon__content"
+      class="css-kuz8oa-euiTimelineItemIcon__content"
     >
       <div
         aria-label=""
-        class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+        class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
         role="img"
         title=""
       >
@@ -123,7 +123,7 @@ exports[`EuiTimelineItem props verticalAlign center is rendered 1`] = `
     </div>
   </div>
   <div
-    class="emotion-euiTimelineItemEvent-center"
+    class="css-1a9m88x-euiTimelineItemEvent-center"
   >
     <p>
       I'm the children
@@ -134,17 +134,17 @@ exports[`EuiTimelineItem props verticalAlign center is rendered 1`] = `
 
 exports[`EuiTimelineItem props verticalAlign top is rendered 1`] = `
 <li
-  class="emotion-euiTimelineItem-top"
+  class="css-1wlaxn1-euiTimelineItem-top"
 >
   <div
-    class="emotion-euiTimelineItemIcon-top"
+    class="css-dka1ul-euiTimelineItemIcon-top"
   >
     <div
-      class="emotion-euiTimelineItemIcon__content"
+      class="css-kuz8oa-euiTimelineItemIcon__content"
     >
       <div
         aria-label=""
-        class="euiAvatar euiAvatar--m euiAvatar--user emotion-euiAvatar-m-user-subdued"
+        class="euiAvatar euiAvatar--m euiAvatar--user css-2bi0nm-euiAvatar-m-user-subdued"
         role="img"
         title=""
       >
@@ -156,7 +156,7 @@ exports[`EuiTimelineItem props verticalAlign top is rendered 1`] = `
     </div>
   </div>
   <div
-    class="emotion-euiTimelineItemEvent-top"
+    class="css-1waxxmm-euiTimelineItemEvent-top"
   >
     <p>
       I'm the children

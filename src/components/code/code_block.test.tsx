@@ -7,7 +7,7 @@
  */
 
 import React, { useState, useEffect } from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import { mount, render, shallow } from 'enzyme';
 import { act } from 'react-dom/test-utils';
 import { requiredProps } from '../../test/required_props';
@@ -142,7 +142,7 @@ describe('EuiCodeBlock', () => {
         );
       }
 
-      ReactDOM.render(<App />, appDiv);
+      createRoot(appDiv).render(<App />);
     });
   });
 

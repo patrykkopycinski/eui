@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import { render } from 'enzyme';
 import { resetServerContext } from 'react-beautiful-dnd';
 import { requiredProps } from '../../test/required_props';
@@ -30,22 +30,21 @@ describe('EuiDraggable', () => {
   });
 
   afterEach(() => {
-    ReactDOM.unmountComponentAtNode(appDiv);
+    createRoot(appDiv).unmount();
     document.body.removeChild(appDiv);
   });
 
   test('is rendered', () => {
     const handler = jest.fn();
 
-    ReactDOM.render(
+    createRoot(appDiv).render(
       <EuiDragDropContext onDragEnd={handler} {...requiredProps}>
         <EuiDroppable droppableId="testDroppable">
           <EuiDraggable draggableId="testDraggable" index={0}>
             {() => <div>Hello</div>}
           </EuiDraggable>
         </EuiDroppable>
-      </EuiDragDropContext>,
-      appDiv
+      </EuiDragDropContext>
     );
 
     expect(takeSnapshot(appDiv)).toMatchSnapshot();
@@ -54,15 +53,14 @@ describe('EuiDraggable', () => {
   test('can be given ReactElement children', () => {
     const handler = jest.fn();
 
-    ReactDOM.render(
+    createRoot(appDiv).render(
       <EuiDragDropContext onDragEnd={handler} {...requiredProps}>
         <EuiDroppable droppableId="testDroppable">
           <EuiDraggable draggableId="testDraggable" index={0}>
             <div>Hello</div>
           </EuiDraggable>
         </EuiDroppable>
-      </EuiDragDropContext>,
-      appDiv
+      </EuiDragDropContext>
     );
 
     expect(takeSnapshot(appDiv)).toMatchSnapshot();
@@ -70,7 +68,7 @@ describe('EuiDraggable', () => {
 
   test('hasInteractiveChildren renders with role="group" and no tabIndex', () => {
     const handler = jest.fn();
-    ReactDOM.render(
+    createRoot(appDiv).render(
       <EuiDragDropContext onDragEnd={handler} {...requiredProps}>
         <EuiDroppable droppableId="testDroppable">
           <EuiDraggable
@@ -81,8 +79,7 @@ describe('EuiDraggable', () => {
             <div>Hello</div>
           </EuiDraggable>
         </EuiDroppable>
-      </EuiDragDropContext>,
-      appDiv
+      </EuiDragDropContext>
     );
 
     expect(takeSnapshot(appDiv)).toMatchSnapshot();

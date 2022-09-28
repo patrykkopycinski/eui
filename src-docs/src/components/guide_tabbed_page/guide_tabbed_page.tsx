@@ -1,4 +1,5 @@
-import React, { FunctionComponent, ReactNode, useContext } from 'react';
+import React, { useContext } from 'react';
+import type { ReactNode, FC, PropsWithChildren } from 'react';
 import { Switch, Route, withRouter, Redirect } from 'react-router-dom';
 import { slugify } from '../../../../src/services/string/slugify';
 import {
@@ -26,7 +27,7 @@ export type GuideTabbedPageProps = CommonProps & {
   title: string;
 };
 
-const GuideTabbedPageComponent: FunctionComponent<GuideTabbedPageProps> = ({
+const GuideTabbedPageComponent: FC<PropsWithChildren<GuideTabbedPageProps>> = ({
   description,
   guidelines,
   history,

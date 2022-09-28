@@ -171,7 +171,7 @@ export const FontWeightValuesSass = () => {
 
   return (
     <>
-      <EuiBasicTable
+      <EuiBasicTable<any>
         items={euiFontWeights.map(function (weight) {
           return {
             id: weight,
@@ -249,7 +249,7 @@ export const FontScaleValuesSass = () => {
 
   return (
     <>
-      <EuiBasicTable
+      <EuiBasicTable<any>
         items={euiFontSizes.map(function (size, index) {
           return {
             id: size,

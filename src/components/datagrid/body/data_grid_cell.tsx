@@ -124,7 +124,7 @@ export class EuiDataGridCell extends Component<
   // create an infinite loop as the cells activate->deactivate->...
   // so we track the last timeout id and clear that request if superseded
   static activeFocusTimeoutId: number | undefined = undefined;
-
+  context: any = {};
   cellRef = createRef() as MutableRefObject<HTMLDivElement | null>;
   contentObserver!: any; // Cell Content ResizeObserver
   popoverAnchorRef = createRef() as MutableRefObject<HTMLDivElement | null>;

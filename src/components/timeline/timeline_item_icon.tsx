@@ -43,7 +43,7 @@ export const EuiTimelineItemIcon: FunctionComponent<EuiTimelineItemIconProps> = 
     typeof icon === 'string' ? (
       <EuiAvatar color="subdued" name={ariaLabel} iconType={icon} />
     ) : (
-      icon
+      <>{icon}</>
     );
 
   return (

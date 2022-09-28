@@ -112,9 +112,11 @@ export function renderAdditionalControls(
   if (!additionalControls) return null;
 
   // Typescript is having obj issues, so we need to force cast to EuiDataGridToolBarAdditionalControlsOptions here
+  // @ts-expect-error update types
   const additionalControlsObj: EuiDataGridToolBarAdditionalControlsOptions =
     additionalControls?.constructor === Object ? additionalControls : {};
   // Typescript workarounds continued
+  // @ts-expect-error update types
   const leftPositionObj: EuiDataGridToolBarAdditionalControlsLeftOptions =
     additionalControlsObj.left?.constructor === Object
       ? additionalControlsObj.left
@@ -155,7 +157,8 @@ export function getNestedObjectOptions<T>(
   objectKey: keyof T
 ): boolean {
   // If the config is a boolean, nested options follow that boolean
-  if (controlOption === false || controlOption === true) return controlOption;
+  if (controlOption === false || controlOption === true)
+    return controlOption as boolean;
   // If config is not defined, default to enabled
   if (controlOption == null) return true;
   // Otherwise, type should be an object of boolean values - dive into it and return the value

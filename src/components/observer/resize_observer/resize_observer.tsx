@@ -75,7 +75,7 @@ export const useResizeObserver = (
   // _currentDimensions and _setSize are used to only store the
   // new state (and trigger a re-render) when the new dimensions actually differ
   const _currentDimensions = useRef(size);
-  const setSize = useCallback(
+  const setSize = useCallback<EuiResizeObserverProps['onResize']>(
     (dimensions) => {
       const doesWidthMatter = dimension !== 'height';
       const doesHeightMatter = dimension !== 'width';

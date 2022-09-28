@@ -9,7 +9,6 @@
 import classNames from 'classnames';
 import React, {
   forwardRef,
-  FunctionComponent,
   createContext,
   useContext,
   useEffect,
@@ -17,6 +16,7 @@ import React, {
   useRef,
   useState,
 } from 'react';
+import type { FC, PropsWithChildren } from 'react';
 import {
   GridChildComponentProps,
   VariableSizeGrid as Grid,
@@ -46,7 +46,7 @@ import { useScrollBars, useScroll } from '../utils/scrolling';
 import { DataGridSortingContext } from '../utils/sorting';
 import { IS_JEST_ENVIRONMENT } from '../../../utils';
 
-export const Cell: FunctionComponent<GridChildComponentProps> = ({
+export const Cell: FC<GridChildComponentProps> = ({
   columnIndex,
   rowIndex: visibleRowIndex,
   style,
@@ -185,7 +185,7 @@ export const DataGridWrapperRowsContext = createContext<
 
 const InnerElement: VariableSizeGridProps['innerElementType'] = forwardRef<
   HTMLDivElement,
-  { style: { height: number } }
+  PropsWithChildren<{ style: { height: number } }>
 >(({ children, style, ...rest }, ref) => {
   const { headerRowHeight, headerRow, footerRow } = useContext(
     DataGridWrapperRowsContext
@@ -209,9 +209,7 @@ const InnerElement: VariableSizeGridProps['innerElementType'] = forwardRef<
 });
 InnerElement.displayName = 'EuiDataGridInnerElement';
 
-export const EuiDataGridBody: FunctionComponent<EuiDataGridBodyProps> = (
-  props
-) => {
+export const EuiDataGridBody: FC<EuiDataGridBodyProps> = (props) => {
   const {
     leadingControlColumns,
     trailingControlColumns,

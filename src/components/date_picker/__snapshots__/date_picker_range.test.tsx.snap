@@ -14,7 +14,7 @@ exports[`EuiDatePickerRange disabled is rendered 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"
@@ -66,7 +66,7 @@ exports[`EuiDatePickerRange disabled is rendered 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"
@@ -106,7 +106,7 @@ exports[`EuiDatePickerRange is rendered 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"
@@ -157,7 +157,7 @@ exports[`EuiDatePickerRange is rendered 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"
@@ -194,7 +194,7 @@ exports[`EuiDatePickerRange isInvalid is rendered 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"
@@ -245,7 +245,7 @@ exports[`EuiDatePickerRange isInvalid is rendered 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"
@@ -282,7 +282,7 @@ exports[`EuiDatePickerRange readOnly is rendered 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"
@@ -334,7 +334,7 @@ exports[`EuiDatePickerRange readOnly is rendered 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"
@@ -374,7 +374,7 @@ exports[`EuiDatePickerRange uses individual EuiDatePicker props 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"
@@ -425,7 +425,7 @@ exports[`EuiDatePickerRange uses individual EuiDatePicker props 1`] = `
         class="euiFormControlLayout__childrenWrapper"
       >
         <div
-          class="euiPopover emotion-euiPopover"
+          class="euiPopover css-6tb1tw-euiPopover"
         >
           <div
             class="euiPopover__anchor css-zih94u-render"

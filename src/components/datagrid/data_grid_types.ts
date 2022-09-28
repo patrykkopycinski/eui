@@ -16,6 +16,7 @@ import {
   AriaAttributes,
   MutableRefObject,
   Component,
+  PropsWithChildren,
 } from 'react';
 import {
   VariableSizeGridProps,
@@ -397,7 +398,7 @@ export interface EuiDataGridColumnSortingDraggableProps {
   display: string;
 }
 
-export interface EuiDataGridBodyProps {
+export type EuiDataGridBodyProps = PropsWithChildren<{
   leadingControlColumns: EuiDataGridControlColumn[];
   trailingControlColumns: EuiDataGridControlColumn[];
   columns: EuiDataGridColumn[];
@@ -424,7 +425,7 @@ export interface EuiDataGridBodyProps {
   gridRef: MutableRefObject<Grid | null>;
   gridItemsRendered: MutableRefObject<GridOnItemsRenderedProps | null>;
   wrapperRef: MutableRefObject<HTMLDivElement | null>;
-}
+}>;
 
 /**
  * Props shared between renderCellValue and renderCellPopover

@@ -14,7 +14,6 @@ import React, {
   useCallback,
   CSSProperties,
   FunctionComponent,
-  HTMLAttributes,
   ComponentType,
 } from 'react';
 import classNames from 'classnames';
@@ -48,9 +47,7 @@ const containerDirections = {
   horizontal: 'horizontal',
 };
 
-export interface EuiResizableContainerProps
-  extends HTMLAttributes<HTMLDivElement>,
-    CommonProps {
+export interface EuiResizableContainerProps extends CommonProps {
   /**
    * Specify the container direction
    */

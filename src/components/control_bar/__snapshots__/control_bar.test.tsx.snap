@@ -9,7 +9,7 @@ Array [
     style="left:0;right:0"
   >
     <h2
-      class="emotion-euiScreenReaderOnly"
+      class="css-hus3oj-euiScreenReaderOnly"
     >
       Page level controls
     </h2>
@@ -21,23 +21,23 @@ Array [
         class="euiBreadcrumbs euiControlBar__breadcrumbs"
       >
         <ol
-          class="euiBreadcrumbs__list emotion-euiBreadcrumbs__list-isTruncated"
+          class="euiBreadcrumbs__list css-140vtfg-euiBreadcrumbs__list-isTruncated"
         >
           <li
-            class="euiBreadcrumb emotion-euiBreadcrumb-page-isTruncated"
+            class="euiBreadcrumb css-m3mn0m-euiBreadcrumb-page-isTruncated"
           >
             <span
-              class="euiBreadcrumb__content emotion-euiBreadcrumb__content-page-isTruncated-euiTextColor-subdued"
+              class="euiBreadcrumb__content css-1r5g4x6-euiBreadcrumb__content-page-isTruncated-euiTextColor-subdued"
             >
               src
             </span>
           </li>
           <li
-            class="euiBreadcrumb emotion-euiBreadcrumb-page-isTruncated"
+            class="euiBreadcrumb css-m3mn0m-euiBreadcrumb-page-isTruncated"
           >
             <span
               aria-current="page"
-              class="euiBreadcrumb__content emotion-euiBreadcrumb__content-page-isTruncatedLast-euiTextColor-default"
+              class="euiBreadcrumb__content css-17pfl9b-euiBreadcrumb__content-page-isTruncatedLast-euiTextColor-default"
             >
               components
             </span>
@@ -45,12 +45,12 @@ Array [
         </ol>
       </nav>
       <button
-        class="euiControlBar__button emotion-euiButtonDisplay-s-s-base-text"
+        class="euiControlBar__button css-1jnwd5v-euiButtonDisplay-s-s-base-text"
         data-test-subj="dts"
         type="button"
       >
         <span
-          class="emotion-euiButtonDisplayContent"
+          class="css-1oxrrah-euiButtonDisplayContent"
         >
           <span
             class="eui-textTruncate"
@@ -86,7 +86,7 @@ Array [
   </section>,
   <p
     aria-live="assertive"
-    class="emotion-euiScreenReaderOnly"
+    class="css-hus3oj-euiScreenReaderOnly"
   >
     There is a new region landmark with page level controls at the end of the document.
   </p>,

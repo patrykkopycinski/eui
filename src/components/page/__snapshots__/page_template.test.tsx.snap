@@ -2,14 +2,14 @@
 
 exports[`EuiPageTemplate_Deprecated fullHeight is rendered with noscroll 1`] = `
 <div
-  class="euiPage euiPageTemplate eui-fullHeight emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate eui-fullHeight css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody eui-fullHeight emotion-euiPageBody"
+    class="euiPageBody eui-fullHeight css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone eui-yScroll emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone eui-yScroll css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -30,14 +30,14 @@ exports[`EuiPageTemplate_Deprecated fullHeight is rendered with noscroll 1`] = `
 
 exports[`EuiPageTemplate_Deprecated fullHeight is rendered with true 1`] = `
 <div
-  class="euiPage euiPageTemplate eui-fullHeight emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate eui-fullHeight css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody eui-fullHeight emotion-euiPageBody"
+    class="euiPageBody eui-fullHeight css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone eui-yScroll emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone eui-yScroll css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -59,15 +59,15 @@ exports[`EuiPageTemplate_Deprecated fullHeight is rendered with true 1`] = `
 exports[`EuiPageTemplate_Deprecated is rendered 1`] = `
 <div
   aria-label="aria-label"
-  class="euiPage euiPageTemplate testClass1 testClass2 emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate testClass1 testClass2 css-1po165g-euiPage-row-grow"
   data-test-subj="test subject string"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -80,14 +80,14 @@ exports[`EuiPageTemplate_Deprecated is rendered 1`] = `
 
 exports[`EuiPageTemplate_Deprecated restrict width can be set to a custom number 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -101,14 +101,14 @@ exports[`EuiPageTemplate_Deprecated restrict width can be set to a custom number
 
 exports[`EuiPageTemplate_Deprecated restrict width can be turned off 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -121,18 +121,18 @@ exports[`EuiPageTemplate_Deprecated restrict width can be turned off 1`] = `
 
 exports[`EuiPageTemplate_Deprecated template centeredBody is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPageBody emotion-euiPageBody"
+      class="euiPageBody css-30ejv0-euiPageBody"
     >
       <div
-        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-plain-hasShadow"
+        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-15y4d5v-euiPanel-grow-m-l-plain-hasShadow"
         role="main"
       >
         <div
@@ -146,20 +146,20 @@ exports[`EuiPageTemplate_Deprecated template centeredBody is rendered 1`] = `
 
 exports[`EuiPageTemplate_Deprecated template centeredBody is rendered with pageBodyProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
     aria-label="aria-label"
-    class="euiPageBody testClass1 testClass2 emotion-euiPageBody-restrictWidth"
+    class="euiPageBody testClass1 testClass2 css-16jz49r-euiPageBody-restrictWidth"
     data-test-subj="test subject string"
     style="max-width:1200px"
   >
     <div
-      class="euiPageBody emotion-euiPageBody"
+      class="euiPageBody css-30ejv0-euiPageBody"
     >
       <div
-        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-plain-hasShadow"
+        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-15y4d5v-euiPanel-grow-m-l-plain-hasShadow"
         role="main"
       >
         <div
@@ -173,18 +173,18 @@ exports[`EuiPageTemplate_Deprecated template centeredBody is rendered with pageB
 
 exports[`EuiPageTemplate_Deprecated template centeredBody is rendered with pageContentBodyProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPageBody emotion-euiPageBody"
+      class="euiPageBody css-30ejv0-euiPageBody"
     >
       <div
-        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-plain-hasShadow"
+        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-15y4d5v-euiPanel-grow-m-l-plain-hasShadow"
         role="main"
       >
         <div
@@ -200,19 +200,19 @@ exports[`EuiPageTemplate_Deprecated template centeredBody is rendered with pageC
 
 exports[`EuiPageTemplate_Deprecated template centeredBody is rendered with pageContentProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPageBody emotion-euiPageBody"
+      class="euiPageBody css-30ejv0-euiPageBody"
     >
       <div
         aria-label="aria-label"
-        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter testClass1 testClass2 emotion-euiPanel-grow-m-l-plain-hasShadow"
+        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter testClass1 testClass2 css-15y4d5v-euiPanel-grow-m-l-plain-hasShadow"
         data-test-subj="test subject string"
         role="main"
       >
@@ -227,21 +227,21 @@ exports[`EuiPageTemplate_Deprecated template centeredBody is rendered with pageC
 
 exports[`EuiPageTemplate_Deprecated template centeredBody is rendered with pageHeader 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <header
       aria-label="aria-label"
-      class="euiPageHeader testClass1 testClass2 emotion-euiPageHeader-headerMargin"
+      class="euiPageHeader testClass1 testClass2 css-4rnkra-euiPageHeader-headerMargin"
       data-test-subj="test subject string"
       title="Page title"
     >
       <div
-        class="euiPageHeaderContent emotion-euiPageHeaderContent-border-l"
+        class="euiPageHeaderContent css-wr8uth-euiPageHeaderContent-border-l"
       >
         <div
           class="euiFlexGroup euiFlexGroup--gutterLarge euiFlexGroup--directionRow euiFlexGroup--responsive euiPageHeaderContent__top"
@@ -253,10 +253,10 @@ exports[`EuiPageTemplate_Deprecated template centeredBody is rendered with pageH
       </div>
     </header>
     <div
-      class="euiPageBody emotion-euiPageBody"
+      class="euiPageBody css-30ejv0-euiPageBody"
     >
       <div
-        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-plain-hasShadow"
+        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-15y4d5v-euiPanel-grow-m-l-plain-hasShadow"
         role="main"
       >
         <div
@@ -270,18 +270,18 @@ exports[`EuiPageTemplate_Deprecated template centeredBody is rendered with pageH
 
 exports[`EuiPageTemplate_Deprecated template centeredBody minHeight is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:40vh"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPageBody emotion-euiPageBody"
+      class="euiPageBody css-30ejv0-euiPageBody"
     >
       <div
-        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-plain-hasShadow"
+        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-15y4d5v-euiPanel-grow-m-l-plain-hasShadow"
         role="main"
       >
         <div
@@ -295,18 +295,18 @@ exports[`EuiPageTemplate_Deprecated template centeredBody minHeight is rendered 
 
 exports[`EuiPageTemplate_Deprecated template centeredBody paddingSize is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPageBody emotion-euiPageBody"
+      class="euiPageBody css-30ejv0-euiPageBody"
     >
       <div
-        class="euiPanel euiPanel--plain euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-plain-hasShadow"
+        class="euiPanel euiPanel--plain euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-1lsigof-euiPanel-grow-m-plain-hasShadow"
         role="main"
       >
         <div
@@ -320,18 +320,18 @@ exports[`EuiPageTemplate_Deprecated template centeredBody paddingSize is rendere
 
 exports[`EuiPageTemplate_Deprecated template centeredBody style is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px;max-height:100vh"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPageBody emotion-euiPageBody"
+      class="euiPageBody css-30ejv0-euiPageBody"
     >
       <div
-        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-plain-hasShadow"
+        class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-15y4d5v-euiPanel-grow-m-l-plain-hasShadow"
         role="main"
       >
         <div
@@ -345,7 +345,7 @@ exports[`EuiPageTemplate_Deprecated template centeredBody style is rendered 1`] 
 
 exports[`EuiPageTemplate_Deprecated template centeredBody with pageSideBar is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
@@ -354,10 +354,10 @@ exports[`EuiPageTemplate_Deprecated template centeredBody with pageSideBar is re
     Side Bar
   </div>
   <div
-    class="euiPageBody emotion-euiPageBody-l"
+    class="euiPageBody css-2fmoyj-euiPageBody-l"
   >
     <div
-      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-plain-hasShadow"
+      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-15y4d5v-euiPanel-grow-m-l-plain-hasShadow"
       role="main"
     >
       <div
@@ -370,7 +370,7 @@ exports[`EuiPageTemplate_Deprecated template centeredBody with pageSideBar is re
 
 exports[`EuiPageTemplate_Deprecated template centeredBody with pageSideBar is rendered with pageSideBarProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
@@ -381,10 +381,10 @@ exports[`EuiPageTemplate_Deprecated template centeredBody with pageSideBar is re
     Side Bar
   </div>
   <div
-    class="euiPageBody emotion-euiPageBody-l"
+    class="euiPageBody css-2fmoyj-euiPageBody-l"
   >
     <div
-      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-plain-hasShadow"
+      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-15y4d5v-euiPanel-grow-m-l-plain-hasShadow"
       role="main"
     >
       <div
@@ -397,18 +397,18 @@ exports[`EuiPageTemplate_Deprecated template centeredBody with pageSideBar is re
 
 exports[`EuiPageTemplate_Deprecated template centeredContent is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-l-plain"
+      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone css-1nn8px6-euiPanel-grow-none-l-plain"
       style="display:flex"
     >
       <div
-        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-subdued"
+        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-1f0qifb-euiPanel-grow-m-l-subdued"
         role="main"
       >
         <div
@@ -422,20 +422,20 @@ exports[`EuiPageTemplate_Deprecated template centeredContent is rendered 1`] = `
 
 exports[`EuiPageTemplate_Deprecated template centeredContent is rendered with pageBodyProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
     aria-label="aria-label"
-    class="euiPageBody testClass1 testClass2 emotion-euiPageBody"
+    class="euiPageBody testClass1 testClass2 css-30ejv0-euiPageBody"
     data-test-subj="test subject string"
   >
     <div
-      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-l-plain"
+      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone css-1nn8px6-euiPanel-grow-none-l-plain"
       style="display:flex"
     >
       <div
-        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-subdued"
+        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-1f0qifb-euiPanel-grow-m-l-subdued"
         role="main"
       >
         <div
@@ -449,18 +449,18 @@ exports[`EuiPageTemplate_Deprecated template centeredContent is rendered with pa
 
 exports[`EuiPageTemplate_Deprecated template centeredContent is rendered with pageContentBodyProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-l-plain"
+      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone css-1nn8px6-euiPanel-grow-none-l-plain"
       style="display:flex"
     >
       <div
-        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-subdued"
+        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-1f0qifb-euiPanel-grow-m-l-subdued"
         role="main"
       >
         <div
@@ -476,19 +476,19 @@ exports[`EuiPageTemplate_Deprecated template centeredContent is rendered with pa
 
 exports[`EuiPageTemplate_Deprecated template centeredContent is rendered with pageContentProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-l-plain"
+      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone css-1nn8px6-euiPanel-grow-none-l-plain"
       style="display:flex"
     >
       <div
         aria-label="aria-label"
-        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter testClass1 testClass2 emotion-euiPanel-grow-m-l-subdued"
+        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter testClass1 testClass2 css-1f0qifb-euiPanel-grow-m-l-subdued"
         data-test-subj="test subject string"
         role="main"
       >
@@ -503,20 +503,20 @@ exports[`EuiPageTemplate_Deprecated template centeredContent is rendered with pa
 
 exports[`EuiPageTemplate_Deprecated template centeredContent is rendered with pageHeader 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <header
       aria-label="aria-label"
-      class="euiPageHeader testClass1 testClass2 emotion-euiPageHeader-l-border"
+      class="euiPageHeader testClass1 testClass2 css-y1mpp3-euiPageHeader-l-border"
       data-test-subj="test subject string"
       title="Page title"
     >
       <div
-        class="euiPageHeaderContent emotion-euiPageHeaderContent-l"
+        class="euiPageHeaderContent css-qf4z7d-euiPageHeaderContent-l"
         style="max-width:1200px"
       >
         <div
@@ -529,11 +529,11 @@ exports[`EuiPageTemplate_Deprecated template centeredContent is rendered with pa
       </div>
     </header>
     <div
-      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-l-plain"
+      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone css-1nn8px6-euiPanel-grow-none-l-plain"
       style="display:flex"
     >
       <div
-        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-subdued"
+        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-1f0qifb-euiPanel-grow-m-l-subdued"
         role="main"
       >
         <div
@@ -547,18 +547,18 @@ exports[`EuiPageTemplate_Deprecated template centeredContent is rendered with pa
 
 exports[`EuiPageTemplate_Deprecated template centeredContent minHeight is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:40vh"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-l-plain"
+      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone css-1nn8px6-euiPanel-grow-none-l-plain"
       style="display:flex"
     >
       <div
-        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-subdued"
+        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-1f0qifb-euiPanel-grow-m-l-subdued"
         role="main"
       >
         <div
@@ -572,18 +572,18 @@ exports[`EuiPageTemplate_Deprecated template centeredContent minHeight is render
 
 exports[`EuiPageTemplate_Deprecated template centeredContent paddingSize is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       style="display:flex"
     >
       <div
-        class="euiPanel euiPanel--subdued euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-subdued"
+        class="euiPanel euiPanel--subdued euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-16hyq28-euiPanel-grow-m-subdued"
         role="main"
       >
         <div
@@ -597,18 +597,18 @@ exports[`EuiPageTemplate_Deprecated template centeredContent paddingSize is rend
 
 exports[`EuiPageTemplate_Deprecated template centeredContent style is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px;max-height:100vh"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-l-plain"
+      class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageContent euiPageContent--borderRadiusNone css-1nn8px6-euiPanel-grow-none-l-plain"
       style="display:flex"
     >
       <div
-        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-subdued"
+        class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-1f0qifb-euiPanel-grow-m-l-subdued"
         role="main"
       >
         <div
@@ -622,7 +622,7 @@ exports[`EuiPageTemplate_Deprecated template centeredContent style is rendered 1
 
 exports[`EuiPageTemplate_Deprecated template centeredContent with pageSideBar is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
@@ -631,10 +631,10 @@ exports[`EuiPageTemplate_Deprecated template centeredContent with pageSideBar is
     Side Bar
   </div>
   <div
-    class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageBody emotion-euiPanel-grow-none-l-plain-hasShadow-euiPageBody"
+    class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageBody css-1kh95nt-euiPanel-grow-none-l-plain-hasShadow-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-subdued"
+      class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-1f0qifb-euiPanel-grow-m-l-subdued"
       role="main"
     >
       <div
@@ -647,7 +647,7 @@ exports[`EuiPageTemplate_Deprecated template centeredContent with pageSideBar is
 
 exports[`EuiPageTemplate_Deprecated template centeredContent with pageSideBar is rendered with pageSideBarProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
@@ -658,10 +658,10 @@ exports[`EuiPageTemplate_Deprecated template centeredContent with pageSideBar is
     Side Bar
   </div>
   <div
-    class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageBody emotion-euiPanel-grow-none-l-plain-hasShadow-euiPageBody"
+    class="euiPanel euiPanel--plain euiPanel--paddingLarge euiPageBody css-1kh95nt-euiPanel-grow-none-l-plain-hasShadow-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter emotion-euiPanel-grow-m-l-subdued"
+      class="euiPanel euiPanel--subdued euiPanel--paddingLarge euiPageContent euiPageContent--verticalCenter euiPageContent--horizontalCenter css-1f0qifb-euiPanel-grow-m-l-subdued"
       role="main"
     >
       <div
@@ -674,14 +674,14 @@ exports[`EuiPageTemplate_Deprecated template centeredContent with pageSideBar is
 
 exports[`EuiPageTemplate_Deprecated template default is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -694,16 +694,16 @@ exports[`EuiPageTemplate_Deprecated template default is rendered 1`] = `
 
 exports[`EuiPageTemplate_Deprecated template default is rendered with pageBodyProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
     aria-label="aria-label"
-    class="euiPageBody testClass1 testClass2 emotion-euiPageBody"
+    class="euiPageBody testClass1 testClass2 css-30ejv0-euiPageBody"
     data-test-subj="test subject string"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -716,14 +716,14 @@ exports[`EuiPageTemplate_Deprecated template default is rendered with pageBodyPr
 
 exports[`EuiPageTemplate_Deprecated template default is rendered with pageContentBodyProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -738,15 +738,15 @@ exports[`EuiPageTemplate_Deprecated template default is rendered with pageConten
 
 exports[`EuiPageTemplate_Deprecated template default is rendered with pageContentProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
       aria-label="aria-label"
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone testClass1 testClass2 emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone testClass1 testClass2 css-10ffim0-euiPanel-grow-none-plain"
       data-test-subj="test subject string"
       role="main"
     >
@@ -760,20 +760,20 @@ exports[`EuiPageTemplate_Deprecated template default is rendered with pageConten
 
 exports[`EuiPageTemplate_Deprecated template default is rendered with pageHeader 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <header
       aria-label="aria-label"
-      class="euiPageHeader testClass1 testClass2 emotion-euiPageHeader-l-border"
+      class="euiPageHeader testClass1 testClass2 css-y1mpp3-euiPageHeader-l-border"
       data-test-subj="test subject string"
       title="Page title"
     >
       <div
-        class="euiPageHeaderContent emotion-euiPageHeaderContent-l"
+        class="euiPageHeaderContent css-qf4z7d-euiPageHeaderContent-l"
         style="max-width:1200px"
       >
         <div
@@ -786,7 +786,7 @@ exports[`EuiPageTemplate_Deprecated template default is rendered with pageHeader
       </div>
     </header>
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -799,14 +799,14 @@ exports[`EuiPageTemplate_Deprecated template default is rendered with pageHeader
 
 exports[`EuiPageTemplate_Deprecated template default minHeight is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:40vh"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -819,14 +819,14 @@ exports[`EuiPageTemplate_Deprecated template default minHeight is rendered 1`] =
 
 exports[`EuiPageTemplate_Deprecated template default paddingSize is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -839,14 +839,14 @@ exports[`EuiPageTemplate_Deprecated template default paddingSize is rendered 1`]
 
 exports[`EuiPageTemplate_Deprecated template default style is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px;max-height:100vh"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -859,7 +859,7 @@ exports[`EuiPageTemplate_Deprecated template default style is rendered 1`] = `
 
 exports[`EuiPageTemplate_Deprecated template default with pageSideBar is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
@@ -868,13 +868,13 @@ exports[`EuiPageTemplate_Deprecated template default with pageSideBar is rendere
     Side Bar
   </div>
   <div
-    class="euiPanel euiPanel--plain euiPageBody emotion-euiPanel-grow-none-plain-hasShadow-euiPageBody"
+    class="euiPanel euiPanel--plain euiPageBody css-1213hai-euiPanel-grow-none-plain-hasShadow-euiPageBody"
   >
     <div
-      class="euiPageBody emotion-euiPageBody-l"
+      class="euiPageBody css-2fmoyj-euiPageBody-l"
     >
       <div
-        class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+        class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
         role="main"
       >
         <div
@@ -888,7 +888,7 @@ exports[`EuiPageTemplate_Deprecated template default with pageSideBar is rendere
 
 exports[`EuiPageTemplate_Deprecated template default with pageSideBar is rendered with pageSideBarProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
@@ -899,13 +899,13 @@ exports[`EuiPageTemplate_Deprecated template default with pageSideBar is rendere
     Side Bar
   </div>
   <div
-    class="euiPanel euiPanel--plain euiPageBody emotion-euiPanel-grow-none-plain-hasShadow-euiPageBody"
+    class="euiPanel euiPanel--plain euiPageBody css-1213hai-euiPanel-grow-none-plain-hasShadow-euiPageBody"
   >
     <div
-      class="euiPageBody emotion-euiPageBody-l"
+      class="euiPageBody css-2fmoyj-euiPageBody-l"
     >
       <div
-        class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+        class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
         role="main"
       >
         <div
@@ -919,15 +919,15 @@ exports[`EuiPageTemplate_Deprecated template default with pageSideBar is rendere
 
 exports[`EuiPageTemplate_Deprecated template empty is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
       role="main"
     >
       <div
@@ -940,17 +940,17 @@ exports[`EuiPageTemplate_Deprecated template empty is rendered 1`] = `
 
 exports[`EuiPageTemplate_Deprecated template empty is rendered with pageBodyProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
     aria-label="aria-label"
-    class="euiPageBody testClass1 testClass2 emotion-euiPageBody-restrictWidth"
+    class="euiPageBody testClass1 testClass2 css-16jz49r-euiPageBody-restrictWidth"
     data-test-subj="test subject string"
     style="max-width:1200px"
   >
     <div
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
       role="main"
     >
       <div
@@ -963,15 +963,15 @@ exports[`EuiPageTemplate_Deprecated template empty is rendered with pageBodyProp
 
 exports[`EuiPageTemplate_Deprecated template empty is rendered with pageContentBodyProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
       role="main"
     >
       <div
@@ -986,16 +986,16 @@ exports[`EuiPageTemplate_Deprecated template empty is rendered with pageContentB
 
 exports[`EuiPageTemplate_Deprecated template empty is rendered with pageContentProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
       aria-label="aria-label"
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone testClass1 testClass2 emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone testClass1 testClass2 css-1k1l0tw-euiPanel-grow-none-transparent"
       data-test-subj="test subject string"
       role="main"
     >
@@ -1009,21 +1009,21 @@ exports[`EuiPageTemplate_Deprecated template empty is rendered with pageContentP
 
 exports[`EuiPageTemplate_Deprecated template empty is rendered with pageHeader 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <header
       aria-label="aria-label"
-      class="euiPageHeader testClass1 testClass2 emotion-euiPageHeader-headerMargin"
+      class="euiPageHeader testClass1 testClass2 css-4rnkra-euiPageHeader-headerMargin"
       data-test-subj="test subject string"
       title="Page title"
     >
       <div
-        class="euiPageHeaderContent emotion-euiPageHeaderContent-border-l"
+        class="euiPageHeaderContent css-wr8uth-euiPageHeaderContent-border-l"
       >
         <div
           class="euiFlexGroup euiFlexGroup--gutterLarge euiFlexGroup--directionRow euiFlexGroup--responsive euiPageHeaderContent__top"
@@ -1035,7 +1035,7 @@ exports[`EuiPageTemplate_Deprecated template empty is rendered with pageHeader 1
       </div>
     </header>
     <div
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
       role="main"
     >
       <div
@@ -1048,15 +1048,15 @@ exports[`EuiPageTemplate_Deprecated template empty is rendered with pageHeader 1
 
 exports[`EuiPageTemplate_Deprecated template empty minHeight is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:40vh"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
       role="main"
     >
       <div
@@ -1069,15 +1069,15 @@ exports[`EuiPageTemplate_Deprecated template empty minHeight is rendered 1`] = `
 
 exports[`EuiPageTemplate_Deprecated template empty paddingSize is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
       role="main"
     >
       <div
@@ -1090,15 +1090,15 @@ exports[`EuiPageTemplate_Deprecated template empty paddingSize is rendered 1`] =
 
 exports[`EuiPageTemplate_Deprecated template empty style is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow-l"
+  class="euiPage euiPageTemplate css-f666xb-euiPage-row-grow-l"
   style="min-height:460px;max-height:100vh"
 >
   <div
-    class="euiPageBody emotion-euiPageBody-restrictWidth"
+    class="euiPageBody css-16jz49r-euiPageBody-restrictWidth"
     style="max-width:1200px"
   >
     <div
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
       role="main"
     >
       <div
@@ -1111,7 +1111,7 @@ exports[`EuiPageTemplate_Deprecated template empty style is rendered 1`] = `
 
 exports[`EuiPageTemplate_Deprecated template empty with pageSideBar is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
@@ -1120,10 +1120,10 @@ exports[`EuiPageTemplate_Deprecated template empty with pageSideBar is rendered 
     Side Bar
   </div>
   <div
-    class="euiPageBody emotion-euiPageBody-l"
+    class="euiPageBody css-2fmoyj-euiPageBody-l"
   >
     <div
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
       role="main"
     >
       <div
@@ -1136,7 +1136,7 @@ exports[`EuiPageTemplate_Deprecated template empty with pageSideBar is rendered 
 
 exports[`EuiPageTemplate_Deprecated template empty with pageSideBar is rendered with pageSideBarProps 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
@@ -1147,10 +1147,10 @@ exports[`EuiPageTemplate_Deprecated template empty with pageSideBar is rendered 
     Side Bar
   </div>
   <div
-    class="euiPageBody emotion-euiPageBody-l"
+    class="euiPageBody css-2fmoyj-euiPageBody-l"
   >
     <div
-      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-transparent"
+      class="euiPanel euiPanel--transparent euiPageContent euiPageContent--borderRadiusNone css-1k1l0tw-euiPanel-grow-none-transparent"
       role="main"
     >
       <div
@@ -1163,14 +1163,14 @@ exports[`EuiPageTemplate_Deprecated template empty with pageSideBar is rendered 
 
 exports[`EuiPageTemplate_Deprecated with bottomBar is rendered 1`] = `
 <div
-  class="euiPage euiPageTemplate emotion-euiPage-row-grow"
+  class="euiPage euiPageTemplate css-1po165g-euiPage-row-grow"
   style="min-height:460px"
 >
   <div
-    class="euiPageBody emotion-euiPageBody"
+    class="euiPageBody css-30ejv0-euiPageBody"
   >
     <div
-      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone emotion-euiPanel-grow-none-plain"
+      class="euiPanel euiPanel--plain euiPageContent euiPageContent--borderRadiusNone css-10ffim0-euiPanel-grow-none-plain"
       role="main"
     >
       <div
@@ -1179,11 +1179,11 @@ exports[`EuiPageTemplate_Deprecated with bottomBar is rendered 1`] = `
     </div>
     <section
       aria-label="Page level controls"
-      class="euiBottomBar euiBottomBar--sticky emotion-euiBottomBar-sticky"
+      class="euiBottomBar euiBottomBar--sticky css-1n74q4i-euiBottomBar-sticky"
       style="left:0;right:0;bottom:0"
     >
       <h2
-        class="emotion-euiScreenReaderOnly"
+        class="css-hus3oj-euiScreenReaderOnly"
       >
         Page level controls
       </h2>
@@ -1195,7 +1195,7 @@ exports[`EuiPageTemplate_Deprecated with bottomBar is rendered 1`] = `
     </section>
     <p
       aria-live="assertive"
-      class="emotion-euiScreenReaderOnly"
+      class="css-hus3oj-euiScreenReaderOnly"
     >
       There is a new region landmark with page level controls at the end of the document.
     </p>

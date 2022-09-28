@@ -6,7 +6,8 @@
  * Side Public License, v 1.
  */
 
-import React, { FunctionComponent } from 'react';
+import React from 'react';
+import type { FC, PropsWithChildren } from 'react';
 import classNames from 'classnames';
 
 import { useEuiTheme } from '../../services';
@@ -18,7 +19,7 @@ import { euiImageWrapperStyles } from './image_wrapper.styles';
 import { EuiImageButton } from './image_button';
 import { EuiImageCaption } from './image_caption';
 
-export const EuiImageWrapper: FunctionComponent<EuiImageWrapperProps> = ({
+export const EuiImageWrapper: FC<PropsWithChildren<EuiImageWrapperProps>> = ({
   alt,
   caption,
   hasShadow,
